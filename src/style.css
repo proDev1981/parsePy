@@ -1,0 +1,9 @@
+.body{
+    background:transparent;
+}
+.entry{
+    background: rgba(50,50,50,0.7);
+}
+.entry:focus{
+    border:none;
+}
